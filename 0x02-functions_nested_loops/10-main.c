@@ -8,10 +8,11 @@
  */
 
 int main(void)
+
 {
 	int n;
 
-	n = add(99,9);
+	n = add(89,9);
 	printf("%d\n",n);
 	return (0);
 
