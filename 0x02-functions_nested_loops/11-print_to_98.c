@@ -23,8 +23,18 @@ break;
 }
 else
 {
-	printf("%d, ", n);
+printf("%d, ", n);
 }
+if  (n > 98);
+{
+for (i = n; i >= 98; i ==)
+{
+printf("%d", i);
+}
+printf("\n");
+}
+else if (n == 98)
+printf("%d\n", n);
 }
 }
 
